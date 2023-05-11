@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TodoList-Platzi/static/css/main.250dd6a6.css",
+    "main.js": "/TodoList-Platzi/static/js/main.f04580ba.js",
+    "static/media/inspire.png": "/TodoList-Platzi/static/media/inspire.f1b869474d384db97407.png",
+    "index.html": "/TodoList-Platzi/index.html",
+    "static/media/check_circle.svg": "/TodoList-Platzi/static/media/check_circle.9fc1dbab6caa6d7dc57b3da7a95f12ed.svg",
+    "static/media/delete.svg": "/TodoList-Platzi/static/media/delete.24315ab37634d58b5ce35a16092b6731.svg",
+    "static/media/search.svg": "/TodoList-Platzi/static/media/search.83bf22fea51e5d789840c7ebeff532fe.svg",
+    "static/media/edit.svg": "/TodoList-Platzi/static/media/edit.781620c7c16865a7a9076d5121816bbd.svg",
+    "main.250dd6a6.css.map": "/TodoList-Platzi/static/css/main.250dd6a6.css.map",
+    "main.f04580ba.js.map": "/TodoList-Platzi/static/js/main.f04580ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.250dd6a6.css",
+    "static/js/main.f04580ba.js"
+  ]
+}
