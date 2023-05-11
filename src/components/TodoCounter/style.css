@@ -1,0 +1,19 @@
+.TodoCounter {
+    text-align: center;
+}
+
+.Title {
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    letter-spacing: 4px;
+    background: -webkit-linear-gradient(left top, #F37335, #FDC830);
+    -webkit-background-clip: text;  
+    -webkit-text-fill-color: transparent;
+}
+
+.Subtitle {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: #FEF9E7;
+}

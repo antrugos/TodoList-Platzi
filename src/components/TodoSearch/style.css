@@ -1,0 +1,35 @@
+.TodoSearch {
+  width: 50%;
+  margin-left: 25%;
+}
+.search {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  gap: 15px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.iconSearch {
+  width: 25px;
+  display: flex;
+}
+
+input {
+  padding: 10px;
+  text-align: start;
+  border: none;
+  width: 100%;
+  font-size: 20px;
+  color: #a5a5a5;
+}
+
+input::placeholder {
+  font-weight: 400;
+}
+
+input:focus {
+  outline-color: #fff;
+}

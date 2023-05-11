@@ -1,0 +1,66 @@
+.Modal {
+  background-color: rgba(255, 255, 255, 1);
+  width: 50%;
+  height: 50%;
+  border-radius: 10px;
+}
+
+.Modal__header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 10px 0;
+  gap: 12px;
+  height: 80%;
+}
+.Modal__title {
+  background: -webkit-linear-gradient(left top, #f37335, #fdc830);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Modal__textArea {
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 98%;
+  height: 98%;
+  border: none;
+  outline: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  border-radius: 3px;
+}
+.Modal__buttons {
+  margin: 10px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+}
+.Modal__cancelButton {
+  font-size: 16px;
+  padding: 5px;
+  background-color: #fff;
+  border-radius: 5px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+.Modal__cancelButton:hover {
+  background-color: gray;
+  color: azure;
+}
+.Modal__submitButton {
+  font-size: 16px;
+  padding: 10px;
+  background-color: #0174df;
+  border-radius: 5px;
+  border: 1px solid #2e9afe;
+  cursor: pointer;
+  color: white;
+}
+.Modal__submitButton:hover {
+  background: linear-gradient(to right top, #0174df, #df0101);
+  border: linear-gradient(to right top, #df0101, #0174df);
+}
